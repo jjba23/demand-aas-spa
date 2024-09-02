@@ -1,0 +1,5 @@
+* Demand As A Service SPA (Single Page Application)
+
+Helping visual interface aimed at making your life easier when working with demand-aas and the healthcare request tree.
+
+Developed with Typescript and the Vite dev server. Deployable as static pages, also to GitLab pages.

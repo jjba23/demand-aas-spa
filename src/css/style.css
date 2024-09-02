@@ -1,0 +1,36 @@
+
+pre {
+    overflow-x: scroll;
+    padding: 1.6em;
+    background: #26211d;
+    border-radius: 1em;
+}
+
+textarea {    
+    padding: 1.6em;
+    margin-bottom: 2em;
+    border-radius: 1em;
+    min-height: 12em;
+    font-family: monospace !important;
+}
+
+tree-view {
+   display: flex;
+   flex-direction: column;
+    gap: 1.2em;
+   flex-wrap: wrap;
+}
+
+
+nav {
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 1.2em;
+}
+
+.small-table {
+    font-size: small;
+}
+
